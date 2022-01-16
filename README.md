@@ -1,1 +1,1 @@
-# web3_py
+# 100 days of learning blockchain
